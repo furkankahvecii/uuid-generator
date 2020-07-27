@@ -9,7 +9,7 @@ $(".uuid").click(function()
   var name = $(this).attr('name');
   
   $.ajax({
-    url: 'http://uuid-guid-generator.herokuapp.com/uuid-ajax.php',
+    url: 'https://uuid-guid-generator.herokuapp.com/uuid-ajax.php',
     type: 'GET',
     data: {uuid_version: name},
     success: function(data) 
