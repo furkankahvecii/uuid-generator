@@ -1,0 +1,28 @@
+body {
+	background-color: #5c4084;
+	margin: 30px;
+  }
+  .container {
+	background-color: #fff;
+	padding: 40px 80px;
+	border-radius: 8px;
+  }
+  h1 {
+	color: #fff;
+	font-size: 4rem;
+	font-weight: 900;
+	margin: 0 0 35px 0;
+	-webkit-background-clip: text;
+	text-align: center;
+  }
+
+
+  footer{
+	color: #fff;
+	font-size: 2rem;
+	font-weight: 500;
+	margin: 20px 0 0 0;
+	background: -webkit-linear-gradient(#fff, #999);
+	-webkit-background-clip: text;
+	text-align: center;
+  }
