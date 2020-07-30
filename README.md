@@ -9,6 +9,9 @@ In total, you see 32 characters with four hyphens in between.
 # Online Generate
   https://uuid-guid-generator.herokuapp.com/uuid-generator.php
   
+# UUID Generate
+  UUID generation class is taken from the <a href="https://github.com/webpatser/laravel-uuid" target="_blank"> github.com/webpatser/laravel-uuid </a> repo.
+  
 # Versions
 
 ## Version 1 (date-time and MAC address)
